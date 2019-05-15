@@ -16,13 +16,13 @@ Programming languages are languages of computers.
 
 ## Python
 
-![Python](Introduction to Programming Languages and Python.assets/python-logo.gif)
+![Python](/Introduction to Programming Languages and Python.assets/python-logo.gif)
 
 Not a snake, but a programming language.
 
 Python was fist announced in 1990 and keep growing because of its readability and easy to use. Now it is the third most popular language.
 
-![hair](Introduction to Programming Languages and Python.assets/hair.png)
+![hair](/Introduction to Programming Languages and Python.assets/hair.png)
 
 Above are pictures of main developers of four popular programming languages. What do you find?
 
