@@ -8,9 +8,9 @@ A value …. is a value. But in programming, it’s not just a number. A value c
 
 ## Variable
 
-Have you ever see something like x=10 in your math class? The “x” here represents 10.
+Have you ever see something like x=10 in your math class? The "x" here represents 10.
 
-In Python, the concept of a variable is like “x” in your math class, but have little difference.
+In Python, the concept of a variable is like "x" in your math class, but have little difference.
 
 |                            | Math                 | Python                                                       |
 | -------------------------- | -------------------- | ------------------------------------------------------------ |
@@ -48,5 +48,5 @@ What control flow does is it controls how your code flows. (Okay I know it sound
 
 ## Comment
 
-Reading “languages of computers” is sometimes boring and hard to understand. You can write some comments in your code to help yourself and others to understand your code better. When your program is executed, your comment will ignored by computer.
+Reading "languages of computers" is sometimes boring and hard to understand. You can write some comments in your code to help yourself and others to understand your code better. When your program is executed, your comment will ignored by computer.
 
