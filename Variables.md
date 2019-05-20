@@ -39,7 +39,7 @@ b = a     #because a's value is 10, so this line is same as b = 10
 
 ## Test If it Works
 
-Now we already assigned a value to a variable, but how can we actually comfirm it? Use `print()` function. Since we are not starting teaching function yet, the only thing you need to know is **put your variable name in the brackets, this function will show what’s in the variable in the shell**.
+Now we already assigned a value to a variable, but how can we actually confirm it? Use `print()` function. Since we are not starting teaching function yet, the only thing you need to know is **put your variable name in the brackets, this function will show what’s in the variable in the shell**.
 
 For example:
 
