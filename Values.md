@@ -8,7 +8,7 @@ You cannot mention value without mentioning value types. Value types describes w
 
 Here are some common types:
 
-- **Number**: Don’t need to explain this much, but notice there are many kind of numbers (decimal numbers, integers, super big integers and so on). They are actually different types. But, you only need to know they are numbers.
+- **Number**: Don’t need to explain this much.
 - **String**: It’s definition is “a sequence of characters”, it can be only one character, a word, a sentence, or even a book. (It can be blank too)
 - **Boolean**: If a value’s type is Boolean, it can only be True or False.
 

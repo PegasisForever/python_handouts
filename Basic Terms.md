@@ -33,8 +33,8 @@ You may heard about function in math class. (Hahaha math class yet again) Let’
 |                       | Math                   | Python                                                       |
 | --------------------- | ---------------------- | ------------------------------------------------------------ |
 | input (parameters)    | only numbers           | anything, same as what you can put in a variable             |
-| output (return value) | one number             | anything, a function can don’t return anything, return one value or return multiple value at once. |
-| what does function do | mathematic calculation | anything, maybe add two number, maybe draw an image on the screen, maybe take a picture of you. |
+| output (return value) | one number             | anything, a function can don’t return anything, return one value or return multiple value at once |
+| what does function do | mathematic calculation | anything, maybe add two number, maybe draw an image on the screen, maybe take a picture of you |
 
 As you can see, functions in Python can do much more than it in math.
 

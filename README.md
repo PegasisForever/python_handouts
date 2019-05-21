@@ -1,5 +1,7 @@
 # Python Handouts
 
+I'm still working on it.
+
 These handouts are in following sequence:
 
 1. Introduction to Programming Language and Python
@@ -8,4 +10,6 @@ These handouts are in following sequence:
 4. Values
 5. Variables
 6. Operators
-
+7. Basic Function
+8. Control Flow
+9. Code Readability

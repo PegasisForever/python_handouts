@@ -37,6 +37,8 @@ a = 10    #assign 10 to a, easy to understand
 b = a     #because a's value is 10, so this line is same as b = 10
 ```
 
+Tip: Don't understand `a = 10` as "variable a equals to 10", but "give value 10 to variable a". You will know why in the "Operators" handout.
+
 ## Test If it Works
 
 Now we already assigned a value to a variable, but how can we actually confirm it? Use `print()` function. Since we are not starting teaching function yet, the only thing you need to know is **put your variable name in the brackets, this function will show what’s in the variable in the shell**.
