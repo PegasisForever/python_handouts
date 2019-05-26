@@ -15,5 +15,6 @@ Here are some common types:
 ## How to Write a Value
 
 - **Number**: Numbers don’t need to write in a special way, for example `1`, `1000`, `20.5` are all correct
-- **String**: In order to persent a string, you need to add quotation mark to it. For example you want to write a value *test*, you need to code `"test"`. `"I love you"`, `"a"`, `""`(blank string) are all correct.
+- **String**: In order to present a string, you need to add quotation mark to it. For example you want to write a value *test*, you need to code `"test"`. `"I love you"`, `"a"`, `"123"`, `""`(blank string) are all correct.
 - **Boolean**: Boolean type is either `True` or `False`.
+

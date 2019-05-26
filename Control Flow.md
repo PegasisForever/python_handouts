@@ -73,8 +73,18 @@ For statement is used for iterating over a sequence, so its parameter needs to b
 
 Before we start our example, we need to know `range` function:
 
+- Usage: get a sequence of integer
+
 - Signature: `range (start, end)`
-- Return: a sequence of integer from `start` to `end - 1`
+
+- Parameters:
+
+  | Name  | Meaning                                             |
+  | ----- | --------------------------------------------------- |
+  | start | start number of the sequence                        |
+  | end   | end number of the sequence (doesn't include itself) |
+
+- Return value: `range` type, a sequence of integer from `start` to `end - 1`
 
 Here's the example:
 
@@ -101,3 +111,128 @@ for character in "hello":
 ```
 
 `"hello"` is a value, it's type is String. String is a sequence of characters so it can be used in for statement.
+
+## Example Code
+
+```python
+if (30-10)/2**2 == 5:
+    print ("Yes!")
+```
+
+> Yes!
+
+---
+
+```python
+age = 16
+if age > 15:
+    print ("You are not a kid!")
+if age <= 15:
+    print ("You are a kid!")
+
+age = 10
+if age > 15:
+    print ("You are not a kid!")
+if age <= 15:
+    print ("You are a kid!")
+```
+
+> You are not a kid!<br>You are a kid!
+
+---
+
+```python
+age = 16
+print ("Your age is " + str(age) + ".")
+if age > 15 and age < 18:
+    print ("You are not a kid or an adult!")
+
+if age > 15:
+    if age < 18:
+        print ("age is greater than 15 and less than 18!")
+```
+
+> Your age is 16.<br>You are not a kid or an adult!<br>age is greater than 15 and less than 18!
+
+---
+
+```python
+a = 0
+while a <= 1:
+    print (a)
+    a = a + 0.1
+```
+
+> 0.0<br>0.1<br>0.2<br>0.30000000000000004<br>0.4<br>0.5<br>0.6<br>0.7<br>0.7999999999999999<br>0.8999999999999999<br>0.9999999999999999
+
+(Like I said in *Operators* handout, the result of the math operation with decimal number is not always 100% accurate, but it's close enough.)
+
+---
+
+```python
+a = 0
+while a <= 100:
+    if a-10 > 85:
+        print (a)
+    a = a + 1
+```
+
+> 96<br>97<br>98<br>99<br>100
+
+---
+
+```python
+for i in range(5,10):
+    print (2**i)
+```
+
+> 32<br>64<br>128<br>256<br>512
+
+---
+
+```python
+a = 0
+b = 1
+n = 7
+while n > 0:
+    newA = b
+    newB = a + b
+    a = newA
+    b = newB
+    n = n - 1
+print (b)
+```
+
+> 21
+
+---
+
+```python
+a = 0
+b = 1
+n = 7
+while n > 0:
+    newA = b
+    newB = a + b
+    a = newA
+    b = newB
+    n = n - 1
+    print (b)
+```
+
+> 1<br>2<br>3<br>5<br>8<br>13<br>21
+
+---
+
+```python
+a=0
+b=1
+for n in range(1,8):
+    newA=b
+    newB=a+b
+    a=newA
+    b=newB
+    print (b)
+```
+
+> 1<br>2<br>3<br>5<br>8<br>13<br>21

@@ -30,13 +30,29 @@ A function can return no value, one value or multiple value. You can assign valu
 
 ## `print` Function
 
-1. Signature: `print (data)`
+- Usage: output a value
 
-2. Parameters:
+- Signature: `print (data)`
 
-   | Name | Meaning                                       |
-   | ---- | --------------------------------------------- |
-   | data | The data this function will show in the shell |
+- Parameters:
 
-3. Return value: None
+   | Name | Meaning                         |
+   | ---- | ------------------------------- |
+   | data | The data will show in the shell |
+
+- Return value: None
+
+## `str` Function
+
+- Usage: convert a number type value to string type value
+
+- Signature: `str (number)`
+
+- Parameters:
+
+  | Name   | Meaning                                  |
+  | ------ | ---------------------------------------- |
+  | number | The number you want to convert to string |
+
+- Return value: same number, but is string type.
 
