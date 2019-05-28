@@ -26,11 +26,7 @@ Here is an example:
 
 This program check if variable `a` is greater than 5. If yes, show `Variable a is greater than 5!` in the shell, if not, do nothing.
 
-```python
-a = 10
-if a > 5:
-    print ("Variable a is greater than 5!")
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005466" width="100%" height="152px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ![if_structure_diagram](Control Flow.assets/if_structure_diagram.png)
 
@@ -46,12 +42,7 @@ Here's an example:
 
 This program prints all the integers from 0 to 10.
 
-```python
-number = 0
-while number <= 10:
-    print (number)
-    number = number + 1
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005522" width="100%" height="170px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ![while_structure_diagram](Control Flow.assets/while_structure_diagram.png)
 
@@ -90,10 +81,7 @@ Here's the example:
 
 This program prints all the integers from 0 to 10.
 
-```python
-for number in range (0, 11):
-    print (number)
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005652" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ![for_code_structure_diagram](Control Flow.assets/for_code_structure_diagram.png)
 
@@ -105,134 +93,31 @@ Another example:
 
 This program prints all the characters in the word "hello" one by one.
 
-```python
-for character in "hello":
-    print (character)
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005663" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 `"hello"` is a value, it's type is String. String is a sequence of characters so it can be used in for statement.
 
 ## Example Code
 
-```python
-if (30-10)/2**2 == 5:
-    print ("Yes!")
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005672" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-> Yes!
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005685" width="100%" height="296px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
----
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005695" width="100%" height="242px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-```python
-age = 16
-if age > 15:
-    print ("You are not a kid!")
-if age <= 15:
-    print ("You are a kid!")
-
-age = 10
-if age > 15:
-    print ("You are not a kid!")
-if age <= 15:
-    print ("You are a kid!")
-```
-
-> You are not a kid!<br>You are a kid!
-
----
-
-```python
-age = 16
-print ("Your age is " + str(age) + ".")
-if age > 15 and age < 18:
-    print ("You are not a kid or an adult!")
-
-if age > 15:
-    if age < 18:
-        print ("age is greater than 15 and less than 18!")
-```
-
-> Your age is 16.<br>You are not a kid or an adult!<br>age is greater than 15 and less than 18!
-
----
-
-```python
-a = 0
-while a <= 1:
-    print (a)
-    a = a + 0.1
-```
-
-> 0.0<br>0.1<br>0.2<br>0.30000000000000004<br>0.4<br>0.5<br>0.6<br>0.7<br>0.7999999999999999<br>0.8999999999999999<br>0.9999999999999999
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005712" width="100%" height="170px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 (Like I said in *Operators* handout, the result of the math operation with decimal number is not always 100% accurate, but it's close enough.)
 
 ---
 
-```python
-a = 0
-while a <= 100:
-    if a-10 > 85:
-        print (a)
-    a = a + 1
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005725" width="100%" height="188px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-> 96<br>97<br>98<br>99<br>100
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005734" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
----
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005743" width="100%" height="278px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-```python
-for i in range(5,10):
-    print (2**i)
-```
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005752" width="100%" height="278px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-> 32<br>64<br>128<br>256<br>512
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005761" width="100%" height="242px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
----
-
-```python
-a = 0
-b = 1
-n = 7
-while n > 0:
-    newA = b
-    newB = a + b
-    a = newA
-    b = newB
-    n = n - 1
-print (b)
-```
-
-> 21
-
----
-
-```python
-a = 0
-b = 1
-n = 7
-while n > 0:
-    newA = b
-    newB = a + b
-    a = newA
-    b = newB
-    n = n - 1
-    print (b)
-```
-
-> 1<br>2<br>3<br>5<br>8<br>13<br>21
-
----
-
-```python
-a=0
-b=1
-for n in range(1,8):
-    newA=b
-    newB=a+b
-    a=newA
-    b=newB
-    print (b)
-```
-
-> 1<br>2<br>3<br>5<br>8<br>13<br>21
