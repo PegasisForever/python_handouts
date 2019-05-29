@@ -26,7 +26,7 @@ Here is an example:
 
 This program check if variable `a` is greater than 5. If yes, show `Variable a is greater than 5!` in the shell, if not, do nothing.
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005466" width="100%" height="152px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005466" width="100%" height="127px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ![if_structure_diagram](Control Flow.assets/if_structure_diagram.png)
 
@@ -42,7 +42,7 @@ Here's an example:
 
 This program prints all the integers from 0 to 10.
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005522" width="100%" height="170px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005522" width="100%" height="145px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ![while_structure_diagram](Control Flow.assets/while_structure_diagram.png)
 
@@ -81,7 +81,7 @@ Here's the example:
 
 This program prints all the integers from 0 to 10.
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005652" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005652" width="100%" height="109px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ![for_code_structure_diagram](Control Flow.assets/for_code_structure_diagram.png)
 
@@ -93,31 +93,30 @@ Another example:
 
 This program prints all the characters in the word "hello" one by one.
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005663" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005663" width="100%" height="109px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 `"hello"` is a value, it's type is String. String is a sequence of characters so it can be used in for statement.
 
 ## Example Code
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005672" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005672" width="100%" height="109px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005685" width="100%" height="296px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005685" width="100%" height="271px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005695" width="100%" height="242px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005695" width="100%" height="217px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005712" width="100%" height="170px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005712" width="100%" height="145px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 (Like I said in *Operators* handout, the result of the math operation with decimal number is not always 100% accurate, but it's close enough.)
 
 ---
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005725" width="100%" height="188px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005725" width="100%" height="163px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005734" width="100%" height="134px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005734" width="100%" height="109px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005743" width="100%" height="278px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005743" width="100%" height="253px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005752" width="100%" height="278px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005752" width="100%" height="253px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005761" width="100%" height="242px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005761" width="100%" height="217px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
