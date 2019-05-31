@@ -14,6 +14,7 @@ These handouts are in following sequence:
 8. Control Flow
 9. More About If Statement
 10. Code Readability
+11. Lists and Tuples
 
 ## Road Map
 
