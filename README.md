@@ -12,7 +12,7 @@ These handouts are in following sequence:
 6. Operators
 7. Basic Function
 8. Control Flow
-9. Advanced Control Flow
+9. More About If Statement
 10. Code Readability
 
 ## Road Map
