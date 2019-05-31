@@ -21,3 +21,5 @@ Here are some common types:
 ## Difference between `5` and `"5"`
 
 This is a question that a lot of students are confused about. `5` is a number, it can add with other numbers for example `5 + 1` will give you `6`. `"5"` is a string, which is a text. You can't add it to numbers, but you can add it to other strings, for example `"5" + "test"` will give you `"5test"`, `"5" + "1"` will give you `"51"`.
+
+*Next: Operators*

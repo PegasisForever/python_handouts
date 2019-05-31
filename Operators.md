@@ -106,3 +106,4 @@ Reading other's code is very important on your road of learning programming. Fol
 
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1559005993" width="100%" height="163px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+*Next: Basic Function*

@@ -50,3 +50,4 @@ What control flow does is it controls how your code flows. (Okay I know it sound
 
 Reading "languages of computers" is sometimes boring and hard to understand. You can write some comments in your code to help yourself and others to understand your code better. When your program is executed, your comment will ignored by computer.
 
+*Next: Values*

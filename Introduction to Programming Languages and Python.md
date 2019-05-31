@@ -26,3 +26,4 @@ Python was fist announced in 1990 and keep growing because of its readability an
 
 Above are pictures of main developers of four popular programming languages. What do you find?
 
+*Next: First Line of Code*

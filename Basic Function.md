@@ -56,3 +56,4 @@ A function can return no value, one value or multiple value. You can assign valu
 
 - Return value: same number, but is string type.
 
+*Next: Control Flow*

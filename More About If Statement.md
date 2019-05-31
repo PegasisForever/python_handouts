@@ -73,3 +73,5 @@ Here's some Example:
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1559271084" width="100%" height="204px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1559271196" width="100%" height="272px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+*Next: Code Readability*
