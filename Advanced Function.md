@@ -98,6 +98,16 @@ If you want to use a global variable inside a function, do like this:
 
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1560711195" width="100%" height="219px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+## Another Way to Call a Function
+
+Sometimes a function has too many parameters which made it's very difficult to remember to order of each parameter, we can specific which value is for which parameter.
+
+For example we have a function that signature is like this: `drawRect(x,y,w,h,roundCorner,color,outline,strokeWidth)`
+
+We can use this function in this way: `drawRect(roundCorner=3, color="red", x=100, y=100)`
+
+Or you can mix: `drawRect(100, 100, 50, 50, strokeWidth=5)`
+
 # Examples
 
 

@@ -20,7 +20,7 @@ These handouts are in following sequence:
 14. Object-Oriented Programming
 15. How to Use a Class
 16. How to Create a Class
-17. Use Tkinter to Build GUI Applications X
+17. Use Processing.py to Build GUI Applications
 
 ## Road Map
 
