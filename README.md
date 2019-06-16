@@ -15,6 +15,10 @@ These handouts are in following sequence:
 9. More About If Statement
 10. Code Readability
 11. Lists and Tuples
+12. Advanced Function X
+13. Use Multiple Files X
+14. Object-Oriented (Class) X
+15. Use Tkinter to Build GUI Applications X
 
 ## Road Map
 

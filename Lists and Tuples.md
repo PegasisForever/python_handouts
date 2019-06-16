@@ -109,3 +109,5 @@ Because of tuple is not changeable after defining it, so you can't add or update
 You can get value from a tuple, get length, max value and min value from a tuple.
 
 Because operator doesn't change the item in a tuple, so you can use operators with tuple.
+
+*Next: Advanced Function*

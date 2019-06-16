@@ -18,6 +18,8 @@ And those are not acceptable:
 
 `2example` `example!` 
 
+Because variable names are case sensitive, so `example` and `Example` are two different names.
+
 ## Assigning a Variable
 
 Assign a variable means you are giving a value to a variable.
