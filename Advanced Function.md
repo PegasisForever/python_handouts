@@ -86,5 +86,20 @@ Here's an example of how to use the new `add` function:
 
 - Return value: Number type, the sum of two number
 
+## Global And Local Variable
+
+A global variable is declared outside of a function and a local variable is declared inside of a function.
+
+In default, the variable inside a function is not the same as the variable outside of the function although they have the same name. For example:
+
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1560710922" width="100%" height="219px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+If you want to use a global variable inside a function, do like this:
+
+<iframe src="https://test.pegasis.site/python/editor.html?fileName=1560711195" width="100%" height="219px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 # Examples
 
+
+
+Next: *Import Statement*
