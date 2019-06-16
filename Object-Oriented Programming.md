@@ -1,4 +1,4 @@
-# Object-Oriented (Basic Terms)
+# Object-Oriented Programming
 
 Object-Oriented is a hard concept to understand. In this handout, I will try my best to explain it and give real-life examples.
 
@@ -22,5 +22,10 @@ Properties are the color and model of the car. Although they are all cars(same c
 
 Methods are what a car can do, for example a car can start or move. But how fast a car moves is based on it's properties. Same in programming, methods are functions inside an instance, methods can access the properties of the instance.
 
-Next: *Object-Oriented (Class)*
+# The Truth of Value Type
 
+Have you ever wondered, what really is a variable type? Can I make a value type of my own?
+
+The answer is, all values are an instance of a class, and the value type, is the name of that class.
+
+Next: *How to Use a Class*

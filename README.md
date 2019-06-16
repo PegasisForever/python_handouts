@@ -17,9 +17,10 @@ These handouts are in following sequence:
 11. Lists and Tuples
 12. Advanced Function
 13. Import Statement
-14. Object-Oriented (Basic Terms) X
-15. Object-Oriented (Class) X
-16. Use Tkinter to Build GUI Applications X
+14. Object-Oriented Programming
+15. How to Use a Class
+16. How to Create a Class
+17. Use Tkinter to Build GUI Applications X
 
 ## Road Map
 
