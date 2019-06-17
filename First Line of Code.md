@@ -13,4 +13,6 @@ Some code in this handout have a `Run` button under it, you can directly run it 
 
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1559271513" width="100%" height="96px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-*Next: Basic Terms*
+*Next: [Basic Terms](Basic Terms.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](First Line of Code.assets/By-Pegasis-green.svg)

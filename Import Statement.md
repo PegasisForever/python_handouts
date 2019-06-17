@@ -36,5 +36,6 @@ But this way is not encouraged because you may have conflicts. (for example a fu
 
 You can also import from others code using same syntax. For example you can import numpy for scientific math calculation, import pygame for making games and import tkinter for creating GUI (which we will learn later).
 
-Next: *Object-Oriented (Basic Terms)*
+Next: *[Object-Oriented Programming](Object-Oriented Programming.html)*
 
+![https://img.shields.io/badge/By-Pegasis-green.svg](Import Statement.assets/By-Pegasis-green.svg)

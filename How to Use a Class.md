@@ -20,4 +20,6 @@ Use `instanceName.attributeName` to get or set the value of an attribute.
 
 Use `instanceName.methodName` to invoke method in the instance.
 
-Next: *How to Create a Class*
+*Next: [How to Create a Class](How to Create a Class.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](How to Use a Class.assets/By-Pegasis-green.svg)

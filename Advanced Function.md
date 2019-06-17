@@ -112,4 +112,6 @@ Or you can mix: `drawRect(100, 100, 50, 50, strokeWidth=5)`
 
 
 
-Next: *Import Statement*
+Next: *[Import Statement](Import Statement.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](Advanced Function.assets/By-Pegasis-green-1560729773345.svg)

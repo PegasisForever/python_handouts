@@ -74,4 +74,6 @@ Here's some Example:
 
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1559271196" width="100%" height="272px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-*Next: Code Readability*
+*Next: [Code Readability](Code Readability.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](More About If Statement.assets/By-Pegasis-green.svg)

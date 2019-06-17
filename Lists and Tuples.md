@@ -110,4 +110,6 @@ You can get value from a tuple, get length, max value and min value from a tuple
 
 Because operator doesn't change the item in a tuple, so you can use operators with tuple.
 
-*Next: Advanced Function*
+*Next: [Advanced Function](Advanced Function.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](Lists and Tuples.assets/By-Pegasis-green.svg)

@@ -28,4 +28,6 @@ Have you ever wondered, what really is a variable type? Can I make a value type 
 
 The answer is, all values are an instance of a class, and the value type, is the name of that class.
 
-Next: *How to Use a Class*
+*Next: [How to Use a Class](How to Use a Class.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](Object-Oriented Programming.assets/By-Pegasis-green.svg)

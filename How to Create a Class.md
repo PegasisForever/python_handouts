@@ -2,7 +2,7 @@
 
 ## Basic Structure
 
-![class_basic_structure_diagram](../Python%20Handout/How%20to%20Create%20a%20Class.assets/class_basic_structure_diagram.png)
+![class_basic_structure_diagram](How%20to%20Create%20a%20Class.assets/class_basic_structure_diagram.png)
 
 ### Method
 
@@ -32,4 +32,6 @@ def __init__(self, name, age, gender):
     self.gender = gender
 ```
 
-Next: *Use Tkinter to Build GUI Applications*
+*Next: [Use Processing.py to Build GUI Applications](Use Processing.py to Build GUI Applications.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](How to Create a Class.assets/By-Pegasis-green.svg)

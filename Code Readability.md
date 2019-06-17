@@ -28,4 +28,6 @@ In this case, I used two blank lines to divide data define section, check name s
 
 The answer is **YES**. You may think you can understand your code without any comments or blank lines. Yea... I thought like this when I first learned programming too. But after one month don't touching your code, you will find out that you have not even a clue what you were writing about.
 
-*Next: Lists and Tuples*
+*Next: [Lists and Tuples](Lists and Tuples.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](Code Readability.assets/By-Pegasis-green.svg)

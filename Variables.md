@@ -50,3 +50,5 @@ For example:
 <iframe src="https://test.pegasis.site/python/editor.html?fileName=1559006079" width="100%" height="109px" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 After running this, `12345` should shown in the shell.
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](Variables.assets/By-Pegasis-green.svg)

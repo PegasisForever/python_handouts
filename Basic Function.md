@@ -78,4 +78,6 @@ Knowing how to describe a function is very important when you are trying to figu
 
 - Return value: same number, but is in string type.
 
-*Next: Control Flow*
+*Next: [Control Flow](Control Flow.html)*
+
+![https://img.shields.io/badge/By-Pegasis-green.svg](Basic Function.assets/By-Pegasis-green.svg)
